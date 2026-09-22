@@ -14,10 +14,13 @@ DASHBOARD KPIS
 
 The dashboard contains the following key performance indicators:
 
- .Total Sales: 474.24K
- .Total Profit: 64.35K
- .Units Sold: 8K
- .Profit Margin: 13.57%
+ Total Sales: 474.24K
+ 
+ Total Profit: 64.35K
+ 
+ Units Sold: 8K
+ 
+ Profit Margin: 13.57%
 
 KPI values may change if the underlying dataset or filters are changed.
 
@@ -25,12 +28,17 @@ DASHBOARD VISUALIZATIONS
 
 The dashboard includes:
 
-. Sales by Region – shows sales performance by region.
-. Sales by Month – shows the monthly sales trend.
-. Sales by Category – compares sales across product categories.
-. Top Products by Sales – highlights products with higher sales.
-. Order Date Slicer – allows users to filter the dashboard by date.
-. Region Filter – allows users to view results for a selected region.
+ Sales by Region – shows sales performance by region.
+
+ Sales by Month – shows the monthly sales trend.
+
+ Sales by Category – compares sales across product categories.
+
+ Top Products by Sales – highlights products with higher sales.
+
+ Order Date Slicer – allows users to filter the dashboard by date.
+
+ Region Filter – allows users to view results for a selected region.
 
 HOW TO READ THE DASHBOARD
 
@@ -38,10 +46,13 @@ Start with the four KPI cards at the top to get a quick overview of sales perfor
 
 Then use the charts to understand:
 
-. Which regions generate sales
-. How sales change over time
-. Which categories contribute to sales
-. Which products have higher sales
+ Which regions generate sales
+
+ How sales change over time
+
+ Which categories contribute to sales
+
+ Which products have higher sales
 
 Use the Order Date and Region filters to interact with the dashboard and analyze a specific time period or region.
 
@@ -49,18 +60,29 @@ DATASET
 
 The dashboard is based on sales/order data containing fields such as:
 
-. Order Date
-. Region
-. Product Name
-. roduct ID
-. Category
-. Sales
-. Profit
-. Quantity
-. Discount
-. Customer Information
-. Ship Date
-. Ship Mode
+ Order Date
+
+ Region
+
+ Product Name
+
+ roduct ID
+
+ Category
+
+ Sales
+
+ Profit
+ 
+ Quantity
+
+ Discount
+
+ Customer Information
+
+ Ship Date
+
+ Ship Mode
 
 PROJECT OBJECTIVE
 
@@ -68,8 +90,9 @@ The main objective of this project is to create a basic interactive dashboard th
 
 DELIVERABLES
 
-. Power BI Dashboard File (.pbix)
-. README Documentation
+ Power BI Dashboard File (.pbix)
+
+ README Documentation
 
 AUTHOR
 
